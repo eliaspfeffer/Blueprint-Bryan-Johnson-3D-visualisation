@@ -1,5 +1,6 @@
+blueprint_website/
+
 venv_blueprint/
-render.py
 venv_blueprint/lib64
 venv_blueprint/pyvenv.cfg
 venv_blueprint/bin/activate
