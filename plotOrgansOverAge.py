@@ -151,3 +151,9 @@ plt.xticks(range(18, 121, 10))
 plt.yticks(range(len(organs)), organs)
 plt.grid(True, linestyle='--', linewidth=0.5)
 plt.show()
+
+
+#When Wifi accessible, ask ChatGPT, to do:
+#Now change it to 3D, so I can see how it develops. X achsis = Age, Y achsis = organ name, Z Achsis = time
+
+#Next: Add measurements
