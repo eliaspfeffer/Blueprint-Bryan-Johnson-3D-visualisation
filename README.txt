@@ -1,10 +1,12 @@
 === Blueprint Bryan Johnson 3D Visualization ===
 
-Goal:
+Goal: have a visualisation of how old your individual organs are, by only looking at the data.
 
-Have a 3D rendering of a human body and its organs with the organs marked in colors (green = age 18, dark red = age 120).
+1. Have a 3D rendering of a human body and its organs with the organs marked in colors (green = age 18, dark red = age 120).
+Something similar to this: https://www.zygotebody.com/#nav=7.83,82.56,287.28,0,0,0,0&sel=p:;h:;s:;c:0;o:0&layers=0,1,3069
+... but marked in colours depending on individual age.
 
-Have as many datapoints being added and synced (best common ground I guess would be apple health) automatically.
+2. Have as many datapoints automatically being added and synced and interpreted as possible (best API-reference-point for all sensors would be apple health, I guess).
 
 Daily sensors to implement:
 
@@ -12,7 +14,7 @@ Daily sensors to implement:
 - blood panel results (reference points: insightview blood panel datapoints)
 - skin sensors?
 - whoop or apple watch athletic indexes.
-- get apple health
+- get all data at once from apple health
 
 Image of the result:
 https://github.com/eliaspfeffer/Blueprint-Bryan-Johnson-3D-visualisation/blob/main/images/Age%20measurements%20of%20Bryan%20Johnson.png
