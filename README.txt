@@ -14,4 +14,4 @@ Daily sensors to implement:
 - whoop or apple watch athletic indexes.
 - get apple health
 
-![Blueprint Visualization](https://github.com/eliaspfeffer/Blueprint-Bryan-Johnson-3D-visualisation/blob/main/images/Age%20measurements%20of%20Bryan%20Johnson.png)
+![Blueprint Visualization](https://raw.githubusercontent.com/eliaspfeffer/Blueprint-Bryan-Johnson-3D-visualisation/main/images/Age%20measurements%20of%20Bryan%20Johnson.png)
