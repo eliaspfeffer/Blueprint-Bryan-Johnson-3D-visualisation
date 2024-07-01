@@ -1,4 +1,4 @@
-# Blueprint Bryan Johnson 3D Visualization
+=== Blueprint Bryan Johnson 3D Visualization ===
 
 Goal:
 
