@@ -1,3 +1,6 @@
+TL;DR: Image of the result:
+https://github.com/eliaspfeffer/Blueprint-Bryan-Johnson-3D-visualisation/blob/main/images/Age%20measurements%20of%20Bryan%20Johnson.png
+
 === Blueprint Bryan Johnson 3D Visualization ===
 
 Goal: have a visualisation of how old your individual organs are, by only looking at the data.
@@ -15,6 +18,3 @@ Daily sensors to implement:
 - skin sensors?
 - whoop or apple watch athletic indexes.
 - get all data at once from apple health
-
-Image of the result:
-https://github.com/eliaspfeffer/Blueprint-Bryan-Johnson-3D-visualisation/blob/main/images/Age%20measurements%20of%20Bryan%20Johnson.png
