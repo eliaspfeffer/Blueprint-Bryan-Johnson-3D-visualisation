@@ -8,3 +8,4 @@ Have as many datapoints being added and synced (best common ground I guess would
 - blood panel results (reference points: insightview blood panel datapoints)
 - skin sensors?
 - whoop or apple watch athletic indexes.
+- get apple health
