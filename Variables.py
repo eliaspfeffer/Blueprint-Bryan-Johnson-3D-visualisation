@@ -83,7 +83,6 @@ age_measurements = {
     "VO2 max": 18,  # Maximum oxygen uptake during exercise.
     "Total Bone Mineral Density": 30,  # Density of bones, indicates bone health.
     "Nighttime erections": 18,  # Duration of nighttime erections, an indicator of reproductive health.
-    "HRV": 12,  # Heart Rate Variability.
     "Alpha Klotho biological age": 21,  # Biological age based on Alpha Klotho protein levels.
     "Free testosterone index (FTI)": 20,  # Biological age based on free testosterone levels.
 }
