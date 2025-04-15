@@ -1,5 +1,6 @@
 TL;DR: Image of the result:
-https://github.com/eliaspfeffer/Blueprint-Bryan-Johnson-3D-visualisation/blob/main/images/Age%20measurements%20of%20Bryan%20Johnson.png
+see plot_Finished_OrgansOverAgeMoreVariablesScreenshot.png
+
 
 === Blueprint Bryan Johnson 3D Visualization ===
 
